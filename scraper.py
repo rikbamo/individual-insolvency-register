@@ -1,5 +1,4 @@
-import scraperwiki.datastore
-import scraperwiki.geo
+import scraperwiki
 import lxml.html
 import re
 import sys
